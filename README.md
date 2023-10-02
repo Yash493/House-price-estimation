@@ -9,7 +9,7 @@ The project's goal is to assess how well two well-known machine learning algorit
    
    ![image](https://github.com/Yash493/House-price-estimation/assets/81979500/4e89fa83-4040-43ee-9399-c9800a5b5a5f)
    
-4. Comaprison of both algorithms
+3. Comaprison of both algorithms
 
    ![image](https://github.com/Yash493/House-price-estimation/assets/81979500/beb7d731-a826-4963-95ea-7c21648d1bac)
 
