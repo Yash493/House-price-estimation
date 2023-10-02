@@ -13,6 +13,9 @@ The project's goal is to assess how well two well-known machine learning algorit
 
    ![image](https://github.com/Yash493/House-price-estimation/assets/81979500/beb7d731-a826-4963-95ea-7c21648d1bac)
 
+CONCLUSION  
+This project serves as a significant example of applying machine learning techniques in the real estate sector. Through the use of algorithms like multiple linear regression and XGBoost, we can make precise predictions about the sale price of a property based on a range of relevant features. This prediction are useful for buyers, sellers, and real estate professionals to make informed decisions about pricing and selling houses. The results of this project are useful for various stakeholders in the real estate industry. Buyers can use this Project to make informed decisions about purchasing a property, while sellers can use it to price their property correctly and sell it quickly. Real estate professionals can use the estimator to advise their clients on pricing and selling strategies. In conclusion, this project is a worthy application of machine learning in the real estate. 
+
    
 
    
